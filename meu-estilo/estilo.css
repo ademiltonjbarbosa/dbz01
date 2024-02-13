@@ -1,0 +1,30 @@
+html{
+    font-size: 10px;
+    font-family: "Hedvig Letters Sans", sans-serif;
+    background-color: #404438;
+}
+body{
+    width:600px ;
+    margin: 0 auto;
+    background-color: #f28e36;
+    padding:0px 20px 20px 20px ;
+    border: 5px solid black;
+}
+img{
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+}
+h1{
+    color: #404438;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 6px 3px 5px rgb(5, 5, 5);
+}
+p,li{
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
