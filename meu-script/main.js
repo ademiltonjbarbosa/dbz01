@@ -9,7 +9,7 @@ myImage.onclick = () => {
   }
 };
 
-let myButton = document.querySelector("button");
+/*let myButton = document.querySelector("button");
 let myHeading = document.querySelector("h1");
 
 function setUserName() {
@@ -37,4 +37,4 @@ function setUserName() {
       localStorage.setItem("name", myName);
       myHeading.textContent = `Dragon Ball é legal, ${myName}`;
     }
-  }
+  }*/
